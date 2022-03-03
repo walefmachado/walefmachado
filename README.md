@@ -17,9 +17,6 @@ Currently, I am currently a Master's student in the Program in Applied Statistic
 <br/>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=walefmachado&count_private=true&show_icons=true&include_all_commits=true)
-
-<br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walefmachado&hide=TeX&layout=compact)
 
 <!--
